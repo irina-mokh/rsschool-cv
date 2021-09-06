@@ -16,7 +16,7 @@ Soft skills:
 
 ## Education
 Saint-Petersburg State University of Economics(2013), Construction managment and economics
-[HTML Academy - #30 HTML и CSS. Профессиональная вёрстка сайтов](https://irina-mokh.github.io/1662375-technomart-30/)
+[HTML Academy - #30 HTML и CSS](https://irina-mokh.github.io/1662375-technomart-30/)
 
 
 ## **Skills:**
@@ -29,9 +29,9 @@ Saint-Petersburg State University of Economics(2013), Construction managment and
 
 ___
 ## **Portfolio:**
-[Training project YEBO](https://irina-mokh.github.io/yebo/)/  
-[HTML Academy - graiding](https://irina-mokh.github.io/hanters_plants/)/  
-[Training project Uber Eats](https://irina-mokh.github.io/uber_eats/)/  
+[Training project YEBO](https://irina-mokh.github.io/yebo/)  
+[HTML Academy - graiding](https://irina-mokh.github.io/hanters_plants/)  
+[Training project Uber Eats](https://irina-mokh.github.io/uber_eats/)  
 [Training project Uber Eats](https://irina-mokh.github.io/funiro/)
 
 **Code example:**
