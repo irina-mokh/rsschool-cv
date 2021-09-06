@@ -32,7 +32,7 @@ ___
 [Training project YEBO](https://irina-mokh.github.io/yebo/)  
 [HTML Academy - graiding](https://irina-mokh.github.io/hanters_plants/)  
 [Training project Uber Eats](https://irina-mokh.github.io/uber_eats/)  
-[Training project Uber Eats](https://irina-mokh.github.io/funiro/)
+[Training project Funiro](https://irina-mokh.github.io/funiro/)
 
 **Code example:**
 ```
