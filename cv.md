@@ -1,14 +1,11 @@
 # **Irina Mokh**
-___
-##Contacts:
-* Saint-Petersburg, Russia
 
+* Saint-Petersburg, Russia
 * +7(911)7390359
 * telegram: <https://t.me/mokh_irina>
 * imoh91@gmail.com
 * github: <https://github.com/irina-mokh>
 
-___
 ## **About:**
 I'm a 30yo Construction Cost Engineer with 7-year experience. I intend to change my profession because of personal interests to IT and modern tendentions of changing labour market.
 Soft skills:
@@ -17,15 +14,12 @@ Soft skills:
 * Problem-solving 
 * Independence
 
-___
 ## Education
-
 Saint-Petersburg State University of Economics(2013), Construction managment and economics
-
 [HTML Academy - #30 HTML и CSS. Профессиональная вёрстка сайтов](https://irina-mokh.github.io/1662375-technomart-30/)
 
-___
-## **Skills**:
+
+## **Skills:**
 * HTML
 * CSS
 * JavaScript - basic
@@ -35,9 +29,9 @@ ___
 
 ___
 ## **Portfolio:**
-[Training project YEBO](https://irina-mokh.github.io/yebo/)
-[HTML Academy - graiding](https://irina-mokh.github.io/hanters_plants/)
-[Training project Uber Eats](https://irina-mokh.github.io/uber_eats/)
+[Training project YEBO](https://irina-mokh.github.io/yebo/)/  
+[HTML Academy - graiding](https://irina-mokh.github.io/hanters_plants/)/  
+[Training project Uber Eats](https://irina-mokh.github.io/uber_eats/)/  
 [Training project Uber Eats](https://irina-mokh.github.io/funiro/)
 
 **Code example:**
@@ -73,7 +67,6 @@ ___
         self.i--; 
         if (self.i < 0) {
           self.i = self.slides.length - 1;
-          //self.loop();
         };
         self.sliderRefresh();
       });
@@ -83,7 +76,6 @@ ___
         self.i++;
         if (self.i >= self.slides.length){
           self.i = 0;
-          //self.loop();
         };
         self.sliderRefresh();
       });
