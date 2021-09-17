@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/irina-mokh/uber-eats.git"
+    "url": "git+https://github.com/irina-mokh/rsschool-cv.git"
   },
   "author": "irina-mokh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/irina-mokh/uber-eats/issues"
+    "url": "https://github.com/irina-mokh/rsschool-cv/issues"
   },
-  "homepage": "https://github.com/irina-mokh/uber-eats#readme",
+  "homepage": "https://github.com/irina-mokh/rsschool-cv#readme",
   "devDependencies": {
     "browser-sync": "^2.27.3",
     "gulp": "^4.0.2",
